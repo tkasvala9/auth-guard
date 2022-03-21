@@ -1,0 +1,18 @@
+.Table{
+    margin: auto;
+    width: 51em;
+    margin-top: 3em;
+    background: linear-gradient(110deg,rgb(61, 61, 153) 30%, rgb(109, 109, 189) 70%);
+}
+table{
+margin: 3em;
+border: 1px solid black;
+}
+tr{
+    border-bottom: 2px solid black;
+}
+th,td{
+    padding: 2em;
+    font-size: 25px;
+    width: 8em;
+}

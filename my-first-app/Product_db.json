@@ -1,0 +1,30 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "Product_name": "Buscuit",
+      "Price":"20"
+    },
+    {
+      "id": 2,
+      "Product_name": "Cheese",
+      "Price": "50"
+    },
+    {
+      "id": 3,
+      "Product_name": "Pasta",
+      "Price": "100"
+    },
+    {
+      "id": 4,
+      "Product_name": "Meggie",
+      "Price": "40"
+    },
+    {
+      "id": 5,
+      "Product_name": "Wafer",
+      "Price": "60"
+    }
+  ]
+
+}

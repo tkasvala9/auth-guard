@@ -1,0 +1,57 @@
+{
+  "Customer": [
+    {
+      "id": 1,
+      "Customer_name": "bob",
+      "Customer_address":"USA"
+    },
+    {
+      "id": 2,
+      "Customer_name": "James",
+      "Customer_address":"UK"
+    },
+    {
+      "id": 3,
+     "Customer_name": "John",
+      "Customer_address":"Russia"    
+    },
+    {
+      "id": 4,
+     "Customer_name": "Chilly",
+      "Customer_address":"China"    
+    },
+    {
+      "id": 5,
+     "Customer_name": "Devid",
+      "Customer_address":"India"    
+    }
+  ],
+"Product": [
+    {
+      "id": 1,
+      "Product_name": "Buscuit",
+      "Price":"20"
+    },
+    {
+      "id": 2,
+      "Product_name": "Cheese",
+      "Price": "50"
+    },
+    {
+      "id": 3,
+      "Product_name": "Pasta",
+      "Price": "100"
+    },
+    {
+      "id": 4,
+      "Product_name": "Meggie",
+      "Price": "40"
+    },
+    {
+      "id": 5,
+      "Product_name": "Wafer",
+      "Price": "60"
+    }
+  ]
+
+}
